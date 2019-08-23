@@ -1,6 +1,8 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/brain-game-scratch2).
+This project has been prepared for **Scratch 3**.
+
+tps://projects.raspberrypi.org/en/projects/brain-game-scratch2).
 
 --- /no-print ---
 
