@@ -28,6 +28,7 @@ title: What you will learn
 ---
 + How to use broadcasts in Scratch
 + How to create and use a custom Scratch block
++ Understand the skills which are developed towards a career involving Computing’
 
 --- /collapse ---
 
