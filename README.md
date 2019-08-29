@@ -1,14 +1,13 @@
-# brain-game-cc
+# Brain Game
 
-![brain-game-cc](banner.png)
+![Brain Game](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/brain-game-cc](https://projects.raspberrypi.org/en/projects/brain-game-cc)
+Learn how to create a times table quiz, in which you have to get as many answers correct as you can in 30 seconds.
 
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/brain-game-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/brain-game-cc/tree/master/en/solutions).
+Find the project online at [projects.raspberrypi.org/en/projects/brain-game](https://projects.raspberrypi.org/en/projects/brain-game)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
