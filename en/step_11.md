@@ -16,3 +16,5 @@ Use the arrow keys on your keyboard to rotate the controller wheel and catch the
 --- print-only ---
 ![Dots screenshot](images/dots-final.png)
 --- /print-only ---
+
+![progress bar](images/s2-3.png)
