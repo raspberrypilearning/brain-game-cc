@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Go to the Skills in Careers activity and then go to the next project on the module pathway, 'Catch the dots', to create a reaction game! In that project, you're going to learn how to make clones of sprites, and how to use a variable to gradually speed up the game.
 
@@ -18,3 +18,8 @@ Use the arrow keys on your keyboard to rotate the controller wheel and catch the
 --- /print-only ---
 
 ![progress bar](images/s2-3.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
